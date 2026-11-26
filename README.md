@@ -2,6 +2,10 @@
 
 A 3D trick park game you play in a web browser. Ride a snowboard, skis, a skateboard, a scooter or a BMX bike. Hit the ramps, grind the rails, fly through the Sky Zone portal, race Zoe, Max and Kai on the canyon track, play soccer and other sports, and answer math questions to win prizes.
 
+## Play it now
+
+**https://behroozkhorashadi.github.io/big-air-park/** (opens right in the browser, nothing to download)
+
 ## How to play on any computer
 
 1. Download this repository: click the green **Code** button, then **Download ZIP**, and unzip it. If the computer has git, you can run `git clone` instead.
